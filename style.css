@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #DDD;
+	}
+
+#form_colour {
+	width: 350px;
+	margin: 80px auto 0;
+	margin-top: 80px;
+	border: solid 2px #BBB;
+	background-color: #FFF;
+	padding: 30px;
+	
+	}
+	
+	#form_colour label {
+		font-size: 22px;
+		font-family:Arial, Helvetica, sans-serif;
+		display:block;
+		margin-bottom: 20px;
+		color: #333;
+		}
+		
+	#form_colour input{
+		height: 40px;
+		padding: 0 35px;
+		}
+		
+	#form_colour button {
+		height: 43px;
+		padding:0 20px;
+		}
